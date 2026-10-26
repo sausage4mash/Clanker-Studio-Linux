@@ -1,0 +1,20 @@
+# Local environments, settings and credentials
+.venv/
+venv/
+.env
+.env.*
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+
+# Python caches and generated recordings
+__pycache__/
+*.py[cod]
+output/
+*.log
+
+# Desktop metadata
+.DS_Store
+Thumbs.db
